@@ -173,7 +173,7 @@ async def start_command(_, message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="☁ ʏᴏᴜᴛᴜʙᴇ ☁", url=f"{link}"
+                            text="☁ 𝐎𝐖𝐍𝐄𝐑 ☁", url=f"{link}"
                         ),
                         InlineKeyboardButton(
                             text="🥀 sᴜᴩᴩᴏʀᴛ 🥀", url=config.SUPPORT_CHAT
@@ -217,7 +217,7 @@ async def start_command(_, message):
             ],
             [
                 InlineKeyboardButton(
-                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://github.com/TEAM-ABG/AsuXMusic"
+                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url= 𝐍𝐚𝐡𝐢 𝐃𝐮𝐧𝐠𝐚 𝐫𝐞 𝐌𝐜
                 )
             ],
         ]
@@ -255,7 +255,7 @@ async def AsuX_home(_, CallbackQuery):
             ],
             [
                 InlineKeyboardButton(
-                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://github.com/TEAM-ABG/AsuXMusic"
+                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://te.legra.ph/file/68ec4fffe8d5f8285796f.jpg"
                 )
             ],
         ]
